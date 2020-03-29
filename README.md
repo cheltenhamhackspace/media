@@ -3,6 +3,7 @@
 An archive of media suitable for the promotion of Cheltenham Hackspace.
 
 # Adding items
+* Do not add photos containing people without their permission.
 * Most uses of the media require only a small image. Reduce most photos so that the minimum dimension is about 1000 pixels.
 * Do not add stock photos, wiki photos or random social media posts. Even if they can be used legally. Add a link to a README if you think they could be of some use to Cheltenham Hackspace.
 * You may archive media in this repository from social media posts from Cheltenham Hackspace family or friends, if you have permission.
