@@ -1,0 +1,38 @@
+============================================
+Stitching panorama...
+============================================
+
+Platform: Windows 10 (build 19041), 64-bit edition
+Version: 2019.2.0.b690aa0334b5 built by Thomas
+Working directory: F:\360
+Output prefix: logo2048 - logo2048
+
+Blender: enblend 4.3-6b604e79e85b
+ExifTool version: 11.76
+
+Number of active images: 1
+Output exposure value: 0.0
+Canvas size: 100000x50000
+ROI: (0, 0) - (100000, 50000) 
+FOV: 360x180
+Projection: Equirectangular(2)
+Using GPU for remapping: false
+
+Panorama Outputs:
+* Exposure corrected, low dynamic range
+
+First input image
+Number: 0
+Filename: F:\GitHub\media\graphics\logo2048.png
+Size: 2048x2048
+Projection: Normal (rectilinear)
+Response type: custom (EMoR)
+HFOV: 60
+Exposure value: 0.0
+
+
+Remapping LDR images...
+Multiple images output
+loading logo2048.png
+remapping logo2048.png
+remapping logo2048.png
